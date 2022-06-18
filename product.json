@@ -1,0 +1,461 @@
+[
+    {
+        "product_title": "Lane cream",
+        "category": "cosmetics",
+        "price": "1200",
+        "description": "Korean product to make your skin silky",
+        "location": "7",
+        "condition": "new",
+        "image": "upload\/cos1.jpg"
+    },
+    {
+        "product_title": "Green Chilli",
+        "category": "foods",
+        "price": "200",
+        "description": "Summer Chilli for sale",
+        "location": "17",
+        "condition": "new",
+        "image": "upload\/vege.jpg"
+    },
+    {
+        "product_title": "jigme",
+        "category": "foods",
+        "price": "1200",
+        "description": "ksjfksjdkfsd",
+        "location": "19",
+        "condition": "new",
+        "image": "upload\/1.PNG"
+    },
+    {
+        "product_title": "sfsdf",
+        "category": "clothes",
+        "price": "1000",
+        "description": "sfsdfsdf",
+        "location": "20",
+        "condition": "new",
+        "image": "upload\/3.PNG"
+    },
+    {
+        "product_title": "UV Cream",
+        "category": "cosmetics",
+        "price": "1200",
+        "description": "60+++",
+        "location": "1",
+        "condition": "new",
+        "image": "upload\/best-products-emea-cosmetics_martina-swerak.png"
+    },
+    {
+        "product_title": "dorji",
+        "category": "clothes",
+        "price": "1200",
+        "description": "sfsdfsdf",
+        "location": "17",
+        "condition": "new",
+        "image": "upload\/Rosekin-cosmetics-home-3.png"
+    },
+    {
+        "product_title": "dorji",
+        "category": "foods",
+        "price": "1000",
+        "description": "sfsdfsd",
+        "location": "16",
+        "condition": "new",
+        "image": "upload\/1.PNG"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "fdsfsdf",
+        "category": "foods",
+        "price": "sfsdf",
+        "description": "",
+        "location": "16",
+        "condition": "new",
+        "image": "upload\/2.PNG"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "Cabbage",
+        "category": "foods",
+        "price": "50",
+        "description": "Organic food ",
+        "location": "17",
+        "condition": "new",
+        "image": "upload\/3.PNG"
+    },
+    {
+        "product_title": "Cabbage",
+        "category": "foods",
+        "price": "1000",
+        "description": "sfsdfsdf",
+        "location": "16",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "dorji",
+        "category": "clothes",
+        "price": "1000",
+        "description": "sfsdfsdf",
+        "location": "18",
+        "condition": "new",
+        "image": "upload\/3.PNG"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/1.PNG"
+    },
+    {
+        "product_title": "dorji",
+        "category": "clothes",
+        "price": "1000",
+        "description": "jkajdfkasdfsfd",
+        "location": "3",
+        "condition": "new",
+        "image": "upload\/1.PNG"
+    },
+    {
+        "product_title": "dorji",
+        "category": "clothes",
+        "price": "1000",
+        "description": "jkajdfkasdfsfd",
+        "location": "3",
+        "condition": "new",
+        "image": "upload\/2.PNG"
+    },
+    {
+        "product_title": "Potato",
+        "category": "foods",
+        "price": "",
+        "description": "jsakfjaskfjakjfkasjfkajfkjaskfdjasd",
+        "location": "1",
+        "condition": "new",
+        "image": "upload\/1.PNG"
+    },
+    {
+        "product_title": "Potato",
+        "category": "clothes",
+        "price": "1000",
+        "description": "sfdsfdasfasfd",
+        "location": "12",
+        "condition": "new",
+        "image": "upload\/2.PNG"
+    },
+    {
+        "product_title": "Onion",
+        "category": "foods",
+        "price": "50",
+        "description": "Summer onion for sale",
+        "location": "18",
+        "condition": "new",
+        "image": "upload\/onion.jpg"
+    },
+    {
+        "product_title": "Emea Cream",
+        "category": "cosmetics",
+        "price": "3000",
+        "description": "Korean standard for facial whitening",
+        "location": "1",
+        "condition": "new",
+        "image": "upload\/best-products-emea-cosmetics_martina-swerak.png"
+    },
+    {
+        "product_title": "Emea",
+        "category": "cosmetics",
+        "price": "1200",
+        "description": "Korean standard for facial whitening",
+        "location": "1",
+        "condition": "new",
+        "image": "upload\/best-products-emea-cosmetics_martina-swerak.png"
+    },
+    {
+        "product_title": "Emea Cream",
+        "category": "cosmetics",
+        "price": "1000",
+        "description": "Korean standard for facial whitening",
+        "location": "5",
+        "condition": "new",
+        "image": "upload\/best-products-emea-cosmetics_martina-swerak.png"
+    },
+    {
+        "product_title": "nevia",
+        "category": "cosmetics",
+        "price": "500",
+        "description": "safasdfasdf",
+        "location": "17",
+        "condition": "new",
+        "image": "upload\/Rosekin-cosmetics-home-3.png"
+    },
+    {
+        "product_title": "Cordecypes",
+        "category": "foods",
+        "price": "2000",
+        "description": "Bhutanese medicine for everything ",
+        "location": "Bumthang",
+        "condition": "new",
+        "image": "upload\/07-bhutan_1st_cordycep_tea_1.png"
+    },
+    {
+        "product_title": "Honey",
+        "category": "foods",
+        "price": "500",
+        "description": "Agro Honey for sale",
+        "location": "Thimphu",
+        "condition": "new",
+        "image": "upload\/9-993x1024.png"
+    },
+    {
+        "product_title": "Yathra bag",
+        "category": "textile",
+        "price": "5000",
+        "description": "Bhutanese famous yathra bag for sale",
+        "location": "Gasa",
+        "condition": "new",
+        "image": "upload\/yathra_180x.webp"
+    },
+    {
+        "product_title": "Sulwhasoo",
+        "category": "cosmetics",
+        "price": "1500",
+        "description": "Korean cosmetics, which nurishes your skin ",
+        "location": "Punakha",
+        "condition": "new",
+        "image": "upload\/U2b36683adab44401adb09d7bfdd723342.png"
+    },
+    {
+        "product_title": "Xiochii",
+        "category": "cosmetics",
+        "price": "3000",
+        "description": "Chinese skin care ",
+        "location": "Tsirang",
+        "condition": "new",
+        "image": "upload\/skincare-products-banner-asset.png"
+    },
+    {
+        "product_title": "Yathra bag",
+        "category": "textile",
+        "price": "3000",
+        "description": "Bhutanese pure yathra bag",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/apa03560.png"
+    },
+    {
+        "product_title": "Cabbage",
+        "category": "foods",
+        "price": "50",
+        "description": "fasfdsdf",
+        "location": "Dagana",
+        "condition": "new",
+        "image": "upload\/cauli-735x900.png"
+    },
+    {
+        "product_title": "bag",
+        "category": "clothes",
+        "price": "3000",
+        "description": "clothes for sale",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/apa03544.png"
+    },
+    {
+        "product_title": "Cordecypes",
+        "category": "foods",
+        "price": "3000",
+        "description": "Himalayans midicle herbs for sale.",
+        "location": "Gasa",
+        "condition": "new",
+        "image": "upload\/07-bhutan_1st_cordycep_tea_1.png"
+    },
+    {
+        "product_title": "Yathra bag",
+        "category": "textile",
+        "price": "10000",
+        "description": "Bhutanese famous yathra bag ",
+        "location": "Bumthang",
+        "condition": "new",
+        "image": "upload\/apa03544.png"
+    },
+    {
+        "product_title": "laya bag",
+        "category": "textile",
+        "price": "10000",
+        "description": "new product",
+        "location": "Paro",
+        "condition": "new",
+        "image": "upload\/apa03560.png"
+    },
+    {
+        "product_title": "bag",
+        "category": "textile",
+        "price": "20000",
+        "description": "Bhutanese textile bag for sale",
+        "location": "Dagana",
+        "condition": "new",
+        "image": "upload\/slidera12.png"
+    },
+    {
+        "product_title": "Linear ",
+        "category": "cosmetics",
+        "price": "250",
+        "description": "aglagaesg",
+        "location": "Trashiyangsi",
+        "condition": "new",
+        "image": "upload\/shiseido_banner_image-1.png"
+    },
+    {
+        "product_title": "Sulwhasoo",
+        "category": "cosmetics",
+        "price": "3000",
+        "description": "Product of korean",
+        "location": "Chuukha",
+        "condition": "new",
+        "image": "upload\/U2b36683adab44401adb09d7bfdd723342.png"
+    },
+    {
+        "product_title": "Hoodie",
+        "category": "clothes",
+        "price": "2000",
+        "description": "New hoodie available for sale",
+        "location": "Trashigang",
+        "condition": "new",
+        "image": "upload\/278067222_548312710240743_2701346897164880311_n.jpg"
+    },
+    {
+        "product_title": "Hoodie",
+        "category": "clothes",
+        "price": "1000",
+        "description": "sdfsdf",
+        "location": "Dagana",
+        "condition": "new",
+        "image": "upload\/263323681_585212385896283_2337771560045949742_n.jpg"
+    },
+    {
+        "product_title": "Test",
+        "category": "cosmetics",
+        "price": "500",
+        "description": "Korean standard for facial whitening",
+        "location": "Punakha",
+        "condition": "new",
+        "image": "upload\/288756886_746493063460306_8856077553582588390_n.png"
+    },
+    {
+        "product_title": "Tengma",
+        "category": "foods",
+        "price": "500",
+        "description": "Bhutanese corn",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/287480222_1954432741612101_8300806337648036635_n.jpg"
+    },
+    {
+        "product_title": "Potato",
+        "category": "foods",
+        "price": "40",
+        "description": "sfsdfsdf",
+        "location": "Tsirang",
+        "condition": "new",
+        "image": "upload\/263323681_585212385896283_2337771560045949742_n.jpg"
+    },
+    {
+        "product_title": "",
+        "category": "default",
+        "price": "",
+        "description": "",
+        "location": "0",
+        "condition": "new",
+        "image": "upload\/"
+    },
+    {
+        "product_title": "Cordecypes",
+        "category": "foods",
+        "price": "2000",
+        "description": "Himalayans midicle herbs for sale.",
+        "location": "Gasa",
+        "condition": "new",
+        "image": "upload\/07-bhutan_1st_cordycep_tea_1.png"
+    }
+]

@@ -1,0 +1,60 @@
+.bg-snap {
+    background-color: #5371ff !important;
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white;
+}
+.footer-radius {
+    border-radius: 50px 0 0 0;
+}
+/* footer */
+.socialmedia img { 
+    width: 250px;
+    height: 250px;
+}
+/* footer */
+.socialmedia img { 
+    width: 30px;
+    height: 30px;
+}
+/* footer */
+@media (max-width:800px) {
+    .footer {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .copyright {
+        display: inline;
+    }
+
+    .simage {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .simage img {
+        width: 15px;
+        height: 15px;
+    }
+
+    .simage {
+        text-align: center;
+    }
+
+    .simage .fb {
+        margin-left: 5px;
+    }
+}

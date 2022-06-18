@@ -1,0 +1,42 @@
+.spacearea {
+    top: 0px;
+    position: absolute;
+    left: 35%;
+  }
+
+
+@media (max-width: 857px) {
+.description {
+    margin-right: 100px;
+}
+.description h2 {
+    font-size: 20px;
+}
+
+.description h4 {
+    font-size: 16px;
+}
+}
+
+@media (max-width: 750px) {
+.main_space .imagespace .spaceimage {
+    width: 200px;
+    height: 200px;
+}
+}
+
+@media (max-width: 500px) {
+.snapshoplogo .logo {
+    font-size: 16px;
+}
+.main_space .imagespace .spaceimage {
+    width: 140px;
+    height: 140px;
+}
+
+.spacearea {
+    top: 30%;
+    position: absolute;
+    left: 20%;
+}
+}

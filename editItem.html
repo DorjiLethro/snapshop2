@@ -1,0 +1,196 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Header and Footer</title>
+        <link rel="stylesheet" href="snapshop.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+        <style>
+            header {
+                background-color: #5371ff;
+                position: sticky;  
+                top: 0;
+            }
+
+            header img {
+                width: 70px;
+                height: 70px;
+            }
+
+            main {
+                width: 100%;
+                /* height: 100vh; */
+            }
+
+            footer {
+                width: 100%;
+                height: 310px;
+                background-color: #5371ff;
+                border-radius: 50px 0 0 0;
+            }
+
+            footer img {
+                width: 250px;
+                height: 250px;
+            }
+            .image img {
+                width: 30px;
+                height: 30px;
+            }
+
+            .contentHead {
+                background-color: rgba(83, 113, 255, 0.12);
+                width: 100%;
+                height: 200px;
+            }
+
+            .para {
+                margin-top: 2%;
+            }
+
+            .content {
+                margin: 0 60px;
+                margin-top: -100px;
+                background-color: white;
+            }
+
+            .op {
+                width: 50%;
+            }
+
+            .outercontainer,.innercontainer {
+                width: 100%;
+                height: 150px;
+            }
+
+            .myfilelabel {
+                cursor: pointer;
+            }
+
+            /* @media screen and (max-width:1000px) {
+                .rowcontent {
+                    display: flex;
+                    flex-direction: column;
+                }
+            } */
+        </style>
+    </head>
+    <body>
+        <header class="container-fluid">
+            <div class = "d-flex just-content-center align-items-center">
+                <img src="logo.png" alt="">
+                <ul class = "list-inline mt-3 ms-auto me-5">
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none text-white" href="#">Home</a></li>
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none text-white" href="">Categories</a></li>
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none text-white" href="">Sign Up</a></li>
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none text-white" href="">Sign In</a></li>
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none text-white" href=""><i class="bi bi-bell"></i></a></a></li>
+                </ul>
+            </div>
+        </header>
+
+        <main>
+            <div class = "contentHead">
+                <div class = "d-flex align-items-center ms-4">
+                    <li class = "list-inline-item me-4"><a class = "text-decoration-none" href=""><i class="bi bi-person-circle"></i></a></a></li>
+                    <p class = "Username mt-3 me-2">Dorji Lethro</p>
+                </div>
+                <div>
+                    <h2 class = "fw-bold text-center">EDIT ITEMS</h2>
+                </div>
+            </div>
+
+            <div class = "content">
+                <div class = "rowcontent row">
+                    <div class="col-6 p-5">
+                        <div class = "mb-4">
+                            <input class = "form-control rounded-pill" type="text" placeholder="Product Title">
+                        </div>
+                        <div class="mb-4">
+                            <select class = "form-select rounded-pill" name="" id="">
+                                <option value="0">Category</option>
+                                <option value="1">Clothes</option>
+                                <option value="2">Cosmetics</option>
+                                <option value="3">Sports</option>
+                                <option value="4">Foods</option>
+                            </select>
+                        </div>
+                        <div class="mb-4">
+                            <input class="form-control rounded-pill" type="text" placeholder="Price">
+                        </div>
+                        <div class="mb-4">
+                            <input class="form-control rounded-pill" type="text" placeholder="Description">
+                        </div>
+                        <div>
+                            <select class="form-select rounded-pill" name="" id="">
+                                <option value="0">Location</option>
+                                <option value="1">Thimphu</option>
+                                <option value="2">Paro</option>
+                                <option value="3">Chukha</option>
+                                <option value="4">Punakha</option>
+                                <option value="5">WangduePhodrang</option>
+                                <option value="6">Trongsa</option>
+                                <option value="7">Bumthang</option>
+                                <option value="8">Haa</option>
+                                <option value="9">Mongar</option>
+                                <option value="10">Trashigang</option>
+                                <option value="11">TashiYangtse</option>
+                                <option value="12">Lhuentse</option>
+                                <option value="13">SamdrupJongkhar</option>
+                                <option value="14">Sarpang</option>
+                                <option value="15">Dagana</option>
+                                <option value="16">Samtse</option>
+                                <option value="17">Zhemgang</option>
+                                <option value="18">Tsirang</option>
+                                <option value="19">Pemagatshel</option>
+                                <option value="20">Gasa</option>
+                            </select>
+                        </div>
+                        <div class="mb-4">
+                            <label class="pt-3 ps-3" for="">Optional</label>
+                        </div>
+                        <div class="mb-5">
+                            <select class="form-select rounded-pill"name="" id="">
+                                <option value="1">New</option>
+                                <option value="2">Second Hand Product</option>
+                            </select>
+                        </div>
+                        <div class = "text-center mb-4">
+                            <input class="button rounded-pill" type="Submit" value="Publish">
+                        </div>
+                        <div class="text-center">
+                            <input class="buttonrounded-pill"type="Submit" value="Draft">
+                        </div>
+                    </div>
+
+                    <div class="col-6 p-5">
+                        <div class = "outercontainer">
+                            <div class = "innercontainer border border-dark d-flex justify-content-center align-items-center">
+                                <form class = "" action="">
+                                    <label class = "myfilelabel" for="fileimport"><i class = "bi bi-pencil"></i></label>
+                                    <input class = "invisible" type="file" id = "fileimport">
+                                </form>
+                                <p class = "ms-2">Change picture</p>
+                            </div>
+                            <p>Snaps: <span>0</span>/5 Choose your new image</p>
+                            <h5>Offer:</h5>
+                            <div>
+                                <form action="">
+                                    <div>
+                                        <input class = "form-control" type="text" placeholder="Discount*">
+                                    </div>
+                                    <div class = "mt-5 text-center">
+                                        <input class = "button btn-primary" type="submit" value = "Close">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </main>
+
+        <script src="footer.js"></script>
+    </body>
+</html>

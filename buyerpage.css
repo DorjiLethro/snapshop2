@@ -1,0 +1,15 @@
+
+#sticky-navbar{
+    overflow: hidden;
+    z-index: 1;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+/* .notification{
+    margin-left: 85%;
+    margin-top: 3%;
+} */
+

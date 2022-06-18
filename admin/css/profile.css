@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600|Open+Sans:600&display=swap');
+
+#navbarDropdown{
+    color: #5172ff;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #1c2833;
+}
+*{
+    margin:0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+/* .sidebar{
+    position: fixed;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #05201C;
+    margin-top: -50px;
+}
+.sidebar header{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    background: #05201C;
+    user-select: none;
+} */
+.sidebar ul a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 1px solid rgba(255, 255, 255, .1);
+    border-bottom: 1px solid black;
+}
+ul li:hover a{
+    padding-left: 50px;
+}
+
+*:focus{
+    outline: none;
+}
+
+body{
+    background-color:#e9eaead5;
+}
+*:focus{
+    outline: none;
+}
+
+.box img{
+    box-sizing: border-box;
+    width: 120px;
+    height: 130px;
+    border-radius:60%;
+    margin-top: 30px;
+    border:2px solid #05201C;
+    padding: 3px;
+    background-color: white;
+    overflow: hidden;
+    transition: all 1s;
+}
+
+hr{
+    width:500px;
+    line-height:0px;
+    margin:10px 10px 10px 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+    display: block;
+    box-sizing: border-box;
+    color: #5172ff;
+    margin-bottom: 3px;
+    padding: 0;
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid #5172ff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+    background: none;
+}
+input[type="text"]{
+    margin-top: 10px;
+    padding: 0%;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus {
+    border-bottom: 2px solid #5172ff;
+    border-bottom-right-radius:20px;
+    color: #5172ff;
+    transition: 0.2s ease;
+    background: #05201cee;
+    border-top: none;
+}
+
+
+button{
+    border:1px solid #5172ff;
+    background-color: #05201C;
+    color:white;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    left:0;
+    margin:0px;
+    transition: all .3s;
+} 
+button:hover{
+    transform: scale(1.1);
+    background-color: #566573;
+}
+input[type="file"]{
+    display:none;
+} 
+label{
+    box-sizing: border-box;
+    width:40px;
+    height:20px;
+    background-color: black;
+    color:white;
+    border:1px solid #3498db;
+    background-color: black;
+    color:white;
+    padding: 4px;
+    border-radius: 2px;
+} 
+label:hover{
+    background-color: #566573;
+    transform: scale(1.1);
+}

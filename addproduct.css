@@ -1,0 +1,153 @@
+header {
+    background-color: #5371ff;
+    position: sticky;  
+    top: 0;
+}
+
+header img {
+    width: 70px;
+    height: 70px;
+}
+
+.contentHead {
+    background-color: rgba(83, 113, 255, 0.12);
+    width: 100%;
+    height: 200px;
+}
+
+.para {
+    margin-top: 2%;
+}
+
+.content {
+    margin: 0 60px;
+    margin-top: -100px;
+    background-color: white;
+}
+
+.addImage {
+    padding: 30px;
+    margin-top: 100px;
+    width: 50%;
+    border: 2px solid black;
+    background-color: #C4C4C4;
+
+}
+
+.addicon {
+    color: red;
+}
+
+.op {
+    width: 50%;
+}
+
+.con {
+    width: 50%;
+}
+.myform input {
+    width: 75%;
+}
+
+.myform select {
+    width: 75%;
+}
+
+.first {
+    box-shadow: 0 0 5px 0 black;
+}
+
+/* .one, .two {
+    margin-left: 50px;
+} */
+
+.colom2 {
+    background-color: #C4C4C4;
+}
+
+.fileicon {
+    font-size: 50px;
+    color: coral;
+    cursor: pointer;
+}
+
+#fileupload {
+    display: none;
+    visibility: none;
+}
+
+.outer {
+    height: 100px;
+}
+
+@media (max-width:1500px) {
+    .colom2 {
+        display: none;
+        visibility: none;
+    }
+
+    .outerimageholder {
+        display: none;
+        visibility: none;
+    }
+
+    .imageholder {
+        display: none;
+        visibility: none;
+    }
+    .con {
+        width: 50%;
+    }
+
+    .first {
+        width: 100%;
+        height: 600px;
+    }
+
+    .addItemButton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: -5px !important;
+        margin-top: -5px !important;
+    }
+
+    .addItemButton .buttonfirst {
+        margin-bottom: 20px;
+    }
+
+    .addItemButton .buttonfirst, .addItemButton .one {
+        width: 50%;
+    }
+}
+
+@media (max-width:710px) {
+    .con {
+        width: 100%;
+    }
+}
+
+.outerimageholder {
+    width: 100%;
+}
+
+.imageholder {
+    width: 90%;
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagedeletebutton {
+    border: none;
+    background-color: #C4C4C4;
+}
+
+.addImage {
+    width: 800px;
+}
+
+.error {
+    color: #C71585;
+    border: 2px solid #A52A2A;
+}  
