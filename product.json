@@ -457,5 +457,32 @@
         "location": "Gasa",
         "condition": "new",
         "image": "upload\/07-bhutan_1st_cordycep_tea_1.png"
+    },
+    {
+        "product_title": "Onine",
+        "category": "foods",
+        "price": "60",
+        "description": "Per kg",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/onion.jpg"
+    },
+    {
+        "product_title": "Onion",
+        "category": "foods",
+        "price": "60",
+        "description": "Per kg",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/onion.jpg"
+    },
+    {
+        "product_title": "Onion",
+        "category": "foods",
+        "price": "60",
+        "description": "Per kg",
+        "location": "Wandue Phodrang",
+        "condition": "new",
+        "image": "upload\/onion.jpg"
     }
 ]
